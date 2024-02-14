@@ -1,7 +1,5 @@
 # Python-encryption-tool
-A Python tool using Tkinter for AES encryption &amp; decryption. Securely encrypt sensitive data with ease.
-
-Certainly! Below is a template for the README.md file for your AES Encryption & Decryption Tool GitHub repository:
+A Python tool using Tkinter for AES encryption & decryption. Securely encrypt sensitive data with ease.
 
 ---
 
